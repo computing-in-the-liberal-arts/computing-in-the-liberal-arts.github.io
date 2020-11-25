@@ -19,6 +19,6 @@ The SIGCSE Committee on Computing Education in Liberal Arts Colleges was created
     * [Notes from this session.](https://docs.google.com/document/d/1hU-t9R_ZyXdVnF1eRRL_o_YQ_eeRtxX2a95AS6tgTPw/edit?usp=sharing)
   * [SIGCSE 2020 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/) (March 2020. Braught, Davis).
     * [Notes from this session](https://docs.google.com/document/d/1rESaoGZCh6l0IzJG1Tk33iheaNHkFHzyMmdmhjSG86Q/edit#heading=h.mkq0p5k00sk2)
-    
+  * [SIGCSE 2021 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/) (March 2020. Braught, Davis).
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
