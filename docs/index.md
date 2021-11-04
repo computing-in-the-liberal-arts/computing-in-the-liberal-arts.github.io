@@ -13,6 +13,7 @@ The SIGCSE Committee on Computing Education in Liberal Arts Colleges was created
   * [Report of the SIGCSE committee on computing education in liberal arts colleges.](https://dl.acm.org/doi/10.1145/3314027) (April 2019. Baldwin, Holland-Minkley, Braught).
 
 * SIGCSE Events Organized by the Committee:
+  * [SIGCSE 2022 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/) (February 2022. Holland-Minkley, Braught). __Pending SIGCSE Acceptance__
   * [SIGCSE 2021 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/) (March 2021. Holland-Minkley, Davis, Nakazawa, Tartaro, Teresco).
     * [Notes from this event](https://docs.google.com/document/d/1rESaoGZCh6l0IzJG1Tk33iheaNHkFHzyMmdmhjSG86Q)
   * [SIGCSE 2020 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/) (March 2020. Braught, Davis).
