@@ -1,4 +1,4 @@
-## SIGCSE Committee on Computing Education in Liberal Arts Colleges
+## SIGCSE Committee on Computing Education<br>in Liberal Arts Colleges
 
 The SIGCSE Committee on Computing Education in Liberal Arts Colleges was created in recognition that Computing programs at liberal arts colleges differ in a number of ways from programs at other institutions. Its activities focus on issues of concern to faculty and students within computing programs in a broadly defined liberal arts context.
 
