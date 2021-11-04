@@ -9,7 +9,7 @@ The SIGCSE Committee on Computing Education in Liberal Arts Colleges was created
   * [The original committee charter.](https://sigcse.org/programs/committees/liberal.html) (December 2016. Baldwin, Brady, Lawrence, Walker).
 
 * Reports Written by the Committee:
-  * [CS Curricular Innovations with a Liberal Arts Philosophy]() (To appear in SIGCSE 2022, Teresco, Tartaro, Holland-Minkley, Braught, Barnard, Baldwin).
+  * CS Curricular Innovations with a Liberal Arts Philosophy (Accepted to SIGCSE 2022, Teresco, Tartaro, Holland-Minkley, Braught, Barnard, Baldwin).
   * [Report of the SIGCSE committee on computing education in liberal arts colleges.](https://dl.acm.org/doi/10.1145/3314027) (April 2019. Baldwin, Holland-Minkley, Braught).
 
 * SIGCSE Events Organized by the Committee:
