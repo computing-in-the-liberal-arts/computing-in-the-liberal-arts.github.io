@@ -21,6 +21,6 @@ The SIGCSE Committee on Computing Education in Liberal Arts Colleges was created
   * [SIGCSE 2018 Special Session](https://dl.acm.org/doi/10.1145/3159450.3159639) (February 2018. Baldwin).
   * [SIGCSE 2017 Special Session](https://dl.acm.org/doi/abs/10.1145/3017680.3017806) (March 2017. Baldwin, Braught, Holland-Minkley).
     * [Notes from this session.](https://docs.google.com/document/d/1BIvw0w7vryA1qA-TwJ1TK_fWjDHH7H7H6LyXVPObKhc)
-    
+
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
