@@ -5,7 +5,7 @@ The SIGCSE Committee on Computing Education in Liberal Arts Colleges was created
 ## Committee Charters:
 
 The Committee was established as a [SIGCSE Committee](https://sigcse.org/programs/committees/) in 2016 and was renewed with an updated charter in 2019.
-* [The current committee charter.](https://sigcse.org/files/documents/pdfs/SIGCSECommitteeReports/Liberal%20Arts%20Computing%20Education%20Committee%20Charter%202019.pdf) (June 2019. Holland-Minkley, Braught, Baldwin, Walker).
+* [The current committee charter.](https://sigcse.org/files/documents/pdfs/SIGCSECommitteeReports/Liberal%20Arts%20Computing%20Education%20Committee%20Charter%202019.pdf) (June 2019. Holland-Minkley, Braught, Davis, Baldwin, Walker).
 * [The original committee charter.](https://sigcse.org/programs/committees/liberal.html) (December 2016. Baldwin, Brady, Lawrence, Walker).
 
 ## Committee Reports and Publications
