@@ -10,8 +10,8 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 ## Committee Reports and Publications
 
-* CS Curricular Innovations with a Liberal Arts Philosophy (Accepted to SIGCSE 2022, Teresco, Tartaro, Holland-Minkley, Braught, Barnard, Baldwin).
-* [Report of the SIGCSE committee on computing education in liberal arts colleges.](https://dl.acm.org/doi/10.1145/3314027) (April 2019. Baldwin, Holland-Minkley, Braught).
+* [CS Curricular Innovations with a Liberal Arts Philosophy](https://doi.org/10.1145/3478431.3499329) (SIGCSE 2022, Teresco, Tartaro, Holland-Minkley, Braught, Barnard, Baldwin).
+* [Report of the SIGCSE committee on computing education in liberal arts colleges.](https://dl.acm.org/doi/10.1145/3314027) (ACM Inroads, April 2019. Baldwin, Holland-Minkley, Braught).
 
 ## Events Organized by the Committee:
 
