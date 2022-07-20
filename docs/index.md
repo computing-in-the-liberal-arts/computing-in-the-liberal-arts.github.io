@@ -23,10 +23,8 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 * [SIGCSE 2022 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/) (February 2022. A. Holland-Minkley, G. Braught).
 * [SIGCSE 2021 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/) (March 2021. A. Holland-Minkley, J. Davis, M. Nakazawa, A. Tartaro, J. Teresco).
 * [SIGCSE 2020 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2020-PreSymposium-Event/) (March 2020. G. Braught, J. Davis).
-* [SIGCSE 2018 Special Session](https://dl.acm.org/doi/10.1145/3159450.3159639) (February 2018. D. Baldwin).
-  * [Notes from this session.](https://docs.google.com/document/d/1hU-t9R_ZyXdVnF1eRRL_o_YQ_eeRtxX2a95AS6tgTPw/edit?usp=sharing)
-* [SIGCSE 2017 Special Session](https://dl.acm.org/doi/abs/10.1145/3017680.3017806) (March 2017. D. Baldwin, G. Braught, A. Holland-Minkley).
-  * [Notes from this session.](https://docs.google.com/document/d/1BIvw0w7vryA1qA-TwJ1TK_fWjDHH7H7H6LyXVPObKhc)
+* [SIGCSE 2018 Special Session](https://dl.acm.org/doi/10.1145/3159450.3159639) (February 2018. D. Baldwin). [[Notes](https://docs.google.com/document/d/1hU-t9R_ZyXdVnF1eRRL_o_YQ_eeRtxX2a95AS6tgTPw/edit?usp=sharing)]
+* [SIGCSE 2017 Special Session](https://dl.acm.org/doi/abs/10.1145/3017680.3017806) (March 2017. D. Baldwin, G. Braught, A. Holland-Minkley). [[Notes](https://docs.google.com/document/d/1BIvw0w7vryA1qA-TwJ1TK_fWjDHH7H7H6LyXVPObKhc)]
 
 ___
 ![Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License") Unless otherwise noted on an individual resource, all materials in this repository are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
