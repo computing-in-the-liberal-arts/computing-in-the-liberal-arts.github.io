@@ -13,12 +13,14 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 * [CS Curricular Innovations with a Liberal Arts Philosophy](https://doi.org/10.1145/3478431.3499329) (SIGCSE 2022, J. Teresco, A. Tartaro, A. Holland-Minkley, G. Braught, J. Barnard, D. Baldwin).
 * [Report of the SIGCSE committee on computing education in liberal arts colleges.](https://dl.acm.org/doi/10.1145/3314027) (ACM Inroads, April 2019. D. Baldwin, A. Holland-Minkley, G. Braught).
 
-## Events Organized by the Committee:
+## Events and Presentations by the Committee:
 
 * Reflective Curriculum Review for Liberal Arts Computing Programs (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
-  * Tutorial Presentation at the Twenty-Ninth Annual Consortium for Computing Sciences in Colleges Midwest Conference, University of Wisconsin-Stout, Menomonie, Wisconsin, October 7-8, 2022. (Presenter: J. Barnard).
-  * Tutorial Presentation at the Thirty-eighth Annual Consortium for Computing Sciences in Colleges Eastern Conference, DeSales University, Center Valley, Pennsylvania, October 21-22, 2022. (Presenters: G. Braught, A. Holland-Minkley, J. Teresco).
-  * Tutorial Presentation at the Thirty-sixth Annual Consortium for Computing Sciences in Colleges Southeastern Conference, University of North Carolina at Asheville, Asheville, North Carolina, November 11-12, 2022. (Presenter: A. Tartaro).
+  * [CCSC-MW Tutorial]() - October 7-8, 2022. Presenter: J. Barnard.
+  * [CCSC-E Tutorial]() - October 21-22, 2022. Presenters: G. Braught, A. Holland-Minkley, J. Teresco.
+  * [CCSC-SE Tutorial]() - November 11-12, 2022. Presenter: A. Tartaro.
+
+* [CCSC-NE 2022 Tutorial]() Innovations and Opportunities in Liberal Arts Computing Education (April 1-2, 2022. A. Holland-Minkley, G. Braught).
 
 * [SIGCSE 2022 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/) (February 2022. A. Holland-Minkley, G. Braught).
 * [SIGCSE 2021 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/) (March 2021. A. Holland-Minkley, J. Davis, M. Nakazawa, A. Tartaro, J. Teresco).
