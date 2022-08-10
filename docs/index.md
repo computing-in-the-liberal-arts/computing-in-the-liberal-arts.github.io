@@ -15,6 +15,7 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 ## Events and Presentations by the Committee:
 
+* [SIGCSE 2023 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
 * Reflective Curriculum Review for Liberal Arts Computing Programs (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * CCSC-MW Tutorial - Accepted for October 7-8, 2022. Presenter: J. Barnard.
   * CCSC-E Tutorial] - Accepted for October 21-22, 2022. Presenters: G. Braught, A. Holland-Minkley, J. Teresco.
