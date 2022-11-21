@@ -10,6 +10,7 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 ## Committee Reports and Publications
 
+* Computer Science Curriculum Guidelines: A New Liberal Arts Perspective. (To appear in SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
 * [CS Curricular Innovations with a Liberal Arts Philosophy](https://doi.org/10.1145/3478431.3499329) (SIGCSE 2022, J. Teresco, A. Tartaro, A. Holland-Minkley, G. Braught, J. Barnard, D. Baldwin).
 * [Report of the SIGCSE committee on computing education in liberal arts colleges.](https://dl.acm.org/doi/10.1145/3314027) (ACM Inroads, April 2019. D. Baldwin, A. Holland-Minkley, G. Braught).
 
