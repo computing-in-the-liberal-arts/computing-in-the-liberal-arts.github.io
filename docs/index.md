@@ -19,10 +19,11 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 * [SIGCSE 2023 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
 * Reflective Curriculum Review for Liberal Arts Computing Programs (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
-  * CCSC-MW Tutorial - Accepted for October 7-8, 2022. Presenter: J. Barnard.
-  * CCSC-E Tutorial - Accepted for October 21-22, 2022. Presenters: G. Braught, A. Holland-Minkley, J. Teresco.
-  * CCSC-NW Tutorial - Accepted for November 4-5, 2022. Presenter: J. Davis.
-  * CCSC-SE Tutorial - Accepted for November 11-12, 2022. Presenter: A. Tartaro.
+  * [CCSC-MW Tutorial](https://dl.acm.org/doi/10.5555/3580619.3580627) - October 7-8, 2022. Presenter: J. Barnard.
+  * [CCSC-E Tutorial](https://dl.acm.org/doi/abs/10.5555/3580523.3580543) - October 21-22, 2022. Presenters: G. Braught, A. Holland-Minkley, J. Teresco.
+  * [CCSC-NW Tutorial](https://dl.acm.org/doi/10.5555/3575618.3575631) - November 4-5, 2022. Presenter: J. Davis.
+  * [CCSC-SE Tutorial](https://dl.acm.org/doi/10.5555/3581625.3581638) - Accepted for November 11-12, 2022. Presenter: A. Tartaro. (Conference Canceled)
+  * CCSC-NE Tutorial - Accepted for April 14-15, 2023. Presenters: G. Braught, A. Holland-Minkley, J. Teresco.
 * [CCSC-NE 2022 Tutorial](https://drive.google.com/file/d/1Y01JnyBSoUOWmYUD-5QChdHYOj-TT_hM/view) - Innovations and Opportunities in Liberal Arts Computing Education (April 1-2, 2022. A. Holland-Minkley, G. Braught).
 * [SIGCSE 2022 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2022-Affiliated-Event/) (February 2022. A. Holland-Minkley, G. Braught).
 * [SIGCSE 2021 Pre-Symposium Workshop](https://computing-in-the-liberal-arts.github.io/SIGCSE2021-PreSymposium-Event/) (March 2021. A. Holland-Minkley, J. Davis, M. Nakazawa, A. Tartaro, J. Teresco).
