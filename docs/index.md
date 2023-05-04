@@ -10,7 +10,6 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 ## Committee Reports and Publications
 
-* [Liberal Arts Committee CS2023 Beta Response](https://github.com/computing-in-the-liberal-arts/computing-in-the-liberal-arts.github.io/blob/main/docs/files/Liberal%20Arts%20CS2023%20Beta%20Response.pdf)
 * [Our work related to CS2023](https://computing-in-the-liberal-arts.github.io/CS2023/)
 * Computer Science Curriculum Guidelines: A New Liberal Arts Perspective. (To appear in SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
 * [CS Curricular Innovations with a Liberal Arts Philosophy](https://doi.org/10.1145/3478431.3499329) (SIGCSE 2022, J. Teresco, A. Tartaro, A. Holland-Minkley, G. Braught, J. Barnard, D. Baldwin).
