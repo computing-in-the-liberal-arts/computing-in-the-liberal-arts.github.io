@@ -18,7 +18,7 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 ## Events and Presentations by the Committee:
 
 * [SIGCSE 2024 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
-  * Workbook for affiliated event [(Workbook v3)](https://docs.google.com/document/d/19ZjVgEoAINkxaenmCf5DkbkKxPERh6UjC5WkbjXc-GA/edit?usp=drive_link).
+  * Workbook for affiliated event [(Workbook v3)](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=drive_link).
 
 * [SIGCSE 2023 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
 * Reflective Curriculum Review for Liberal Arts Computing Programs (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
