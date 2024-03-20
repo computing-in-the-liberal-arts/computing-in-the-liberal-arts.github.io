@@ -8,6 +8,13 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 * [The current committee charter.](https://sigcse.org/files/documents/pdfs/SIGCSECommitteeReports/Liberal%20Arts%20Computing%20Education%20Committee%20Charter%202019.pdf) (June 2019. A. Holland-Minkley, G. Braught, J. Davis, D. Baldwin, H. Walker).
 * [The original committee charter.](https://sigcse.org/programs/committees/liberal.html) (December 2016. D. Baldwin, A. Brady, A. Lawrence, H. Walker).
 
+## Committee ListServ:
+
+- [SIGCSE LibArts Committee Listserv](https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?SUBED1=SIGCSE-LIBARTS-COMM&X=O409EBF1F8203F5EC59)
+  - Click on the link above and log in with ACM.org login.
+  - Update subscription information (subscribe if not subscribed!) and set preferences.
+  - List is our main communication medium in addition to this website.
+
 ## Committee Reports and Publications
 
 * [Our work related to CS2023](https://computing-in-the-liberal-arts.github.io/CS2023/)
