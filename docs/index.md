@@ -26,9 +26,9 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 * Using a Distinctive Curricular Design Process for Liberal Arts Computing Programs
 (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
-  * CCSC-SE: Tutorial/Workshop - Submitted for presentation - November 8-9, 2024
-  * CCSC-EA: Tutorial - Submitted for presentation - October 18-19, 2024
-  * CCSC-RM: Tutorial/Panel/Workshop - Submitted for presentation - October 18-19, 2024
+  * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter A. Tartaro.
+  * CCSC-EA: Tutorial - October 18-19, 2024. Presenters A. Holland-Minkley, G. Braught.
+  * CCSC-RM: Tutorial/Panel/Workshop - October 18-19, 2024. Presenter J. Teresco.
 * A Process for Distinctive Curricular Design for Liberal Arts Computing Programs. 
 (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * [CCSC-NE: Tutorial](https://dl.acm.org/doi/10.5555/3665609.3665631), April 12-13, 2024. Presenter: G. Braught.
