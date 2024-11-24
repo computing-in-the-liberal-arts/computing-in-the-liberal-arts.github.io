@@ -29,6 +29,7 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
   * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter A. Tartaro.
   * CCSC-EA: Tutorial - October 18-19, 2024. Presenters A. Holland-Minkley, G. Braught.
   * CCSC-RM: Tutorial/Panel/Workshop - October 18-19, 2024. Presenter J. Teresco.
+  * CCSC-MW: Tutorial - October 10-21, 2023. Presenter K. Schmitt.
 * A Process for Distinctive Curricular Design for Liberal Arts Computing Programs. 
 (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * [CCSC-NE: Tutorial](https://dl.acm.org/doi/10.5555/3665609.3665631), April 12-13, 2024. Presenter: G. Braught.
