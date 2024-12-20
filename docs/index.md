@@ -26,13 +26,19 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 * Using a Distinctive Curricular Design Process for Liberal Arts Computing Programs
 (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
-  * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter A. Tartaro.
-  * CCSC-EA: Tutorial - October 18-19, 2024. Presenters A. Holland-Minkley, G. Braught.
-  * CCSC-RM: Tutorial/Panel/Workshop - October 18-19, 2024. Presenter J. Teresco.
-  * CCSC-MW: Tutorial - October 10-21, 2023. Presenter K. Schmitt.
+  * CCSC-SE Tutorial/Workshop - November 8-9, 2024. Presenter: A. Tartaro.
+  * CCSC-EA Tutorial - October 18-19, 2024. Presenters: A. Holland-Minkley, G. Braught.
+  * CCSC-RM Tutorial/Panel/Workshop - October 18-19, 2024. Presenter: J. Teresco.
+  * CCSC-MW Tutorial - October 10-11, 2024. Presenter: K. Schmitt.
 * A Process for Distinctive Curricular Design for Liberal Arts Computing Programs. 
 (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * [CCSC-NE: Tutorial](https://dl.acm.org/doi/10.5555/3665609.3665631), April 12-13, 2024. Presenter: G. Braught.
+* Developing Identity-Focused Program-Level Learning Outcomes for Liberal Arts Computing Programs.
+ (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
+  * [CCSC-MW Tutorial](https://dl.acm.org/doi/10.5555/3637036.3637048), October 20-21, 2023.  Presenter: K. Schmitt. 
+  * [CCSC-RM Tutorial](https://dl.acm.org/doi/10.5555/3636971.3636981), October 20-21, 2023.  Presenter: J. Davis.
+  * [CCSC-EA Tutorial](https://dl.acm.org/doi/10.5555/3636988.3636993), October 20-21, 2023.  Presenter: G. Braught.
+  * [CCSC-SE Tutorial](https://dl.acm.org/doi/10.5555/3637068.3637084), November 3-4, 2023.  Presenter: J. Teresco.
 * [SIGCSE 2024 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
   * Workbook for affiliated event [(Workbook v3)](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing).
 * [SIGCSE 2023 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2023-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
