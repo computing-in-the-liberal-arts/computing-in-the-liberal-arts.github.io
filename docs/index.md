@@ -24,14 +24,16 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 ## Events and Presentations by the Committee:
 
+* [SIGCSE 2025 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/) (Feb 2025. A. Holland-Minkley, A. Tartaro, J. Barnard).
+  * Workbook for affiliated event [(Workbook v3)](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing).
 * Using a Distinctive Curricular Design Process for Liberal Arts Computing Programs
-(J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
+  (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter A. Tartaro.
   * CCSC-EA: Tutorial - October 18-19, 2024. Presenters A. Holland-Minkley, G. Braught.
   * CCSC-RM: Tutorial/Panel/Workshop - October 18-19, 2024. Presenter J. Teresco.
   * CCSC-MW: Tutorial - October 10-21, 2023. Presenter K. Schmitt.
 * A Process for Distinctive Curricular Design for Liberal Arts Computing Programs. 
-(J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
+  (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * [CCSC-NE: Tutorial](https://dl.acm.org/doi/10.5555/3665609.3665631), April 12-13, 2024. Presenter: G. Braught.
 * [SIGCSE 2024 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2024-Affiliated-Event/) (March 2023. A. Holland-Minkley, A. Tartaro, J. Barnard).
   * Workbook for affiliated event [(Workbook v3)](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing).
