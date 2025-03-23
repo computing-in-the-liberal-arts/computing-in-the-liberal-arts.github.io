@@ -17,6 +17,7 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 
 ## Committee Reports and Publications
 
+* [CS2023: Computer Science Curriculum Guidelines: A New Liberal Arts Perspective.](https://dl.acm.org/doi/10.1145/3700773) (ACM Inroads, February, 2025.)
 * [Our work related to CS2023](https://computing-in-the-liberal-arts.github.io/CS2023/)
 * [Computer Science Curriculum Guidelines: A New Liberal Arts Perspective.](https://dl.acm.org/doi/10.1145/3545945.3569793) (SIGCSE 2023, A. Holland-Minkley, J. Barnard, V. Barr, G. Braught, J. Davis, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
 * [CS Curricular Innovations with a Liberal Arts Philosophy](https://doi.org/10.1145/3478431.3499329) (SIGCSE 2022, J. Teresco, A. Tartaro, A. Holland-Minkley, G. Braught, J. Barnard, D. Baldwin).
@@ -25,7 +26,6 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 ## Events and Presentations by the Committee:
 
 * [SIGCSE 2025 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/) (Feb 2025. A. Holland-Minkley, A. Tartaro, J. Barnard).
-  * Workbook for affiliated event [(Workbook v3)](https://docs.google.com/document/d/1QyBftY01oZxVw_KJCjSz0vmZ2orLyC6LkGGiqpi914I/edit?usp=sharing).
 * Using a Distinctive Curricular Design Process for Liberal Arts Computing Programs
   (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter A. Tartaro.
