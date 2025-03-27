@@ -26,6 +26,10 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 ## Events and Presentations by the Committee:
 
 * [SIGCSE 2025 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/) (Feb 2025. A. Holland-Minkley, A. Tartaro, J. Barnard).
+* SIGCSE 2025 Related BoF (Birds of a Feather) Session Notes
+  * BoF: Computing Education in Liberal Arts Colleges ([BoF-Libarts Resulting Notes](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/bof-libarts.html))
+  * BoF: Towards a Computer Science Curriculum “Microkernel” ([BoF-Microkernel Notes](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/bof-microkernel.html))
+
 * Using a Distinctive Curricular Design Process for Liberal Arts Computing Programs
   (J. Barnard, G. Braught, J. Davis, A. Holland-Minkley, D. Reed, K. Schmitt, A. Tartaro, J. Teresco).
   * CCSC-SE: Tutorial/Workshop - November 8-9, 2024. Presenter A. Tartaro.
