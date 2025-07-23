@@ -24,6 +24,7 @@ The Committee was established as a [SIGCSE Committee](https://sigcse.org/program
 * [Report of the SIGCSE committee on computing education in liberal arts colleges.](https://dl.acm.org/doi/10.1145/3314027) (ACM Inroads, April 2019. D. Baldwin, A. Holland-Minkley, G. Braught).
 
 ## Events and Presentations by the Committee:
+* [SIGCSE 2026 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2026-Affiliated-Event/) (Feb 2026. A. Holland-Minkley, A. Tartaro, J. Barnard).
 
 * [SIGCSE 2025 Affiliated Event](https://computing-in-the-liberal-arts.github.io/SIGCSE2025-Affiliated-Event/) (Feb 2025. A. Holland-Minkley, A. Tartaro, J. Barnard).
 * SIGCSE 2025 Related BoF (Birds of a Feather) Session Notes
